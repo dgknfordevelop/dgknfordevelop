@@ -1,4 +1,4 @@
-### Hey There 👋 I am Doğukan
+### Hey There 👋
 
 ### My passion is to create and follow latest changes for Software Development especially on Internet Technologies 
 #
